@@ -5,7 +5,7 @@
 
 Eğitim Konusu:
 
- -> Üretim veya hizmet sırasında yaşanan israfları engelleyerek, min girdi ile max çıktı elde etme nasıl sağlanır?
+ -> Üretim veya hizmet sırasında yaşanan israfları engelleyerek, min girdi ile max çıktı elde etme nasıl sağlanır? 
  -> Üretim veya hizmet iyileştirmeleri şirketlerde nasıl KÜLTÜR haline getirilir?
  
 Eğitim İçeriği:
