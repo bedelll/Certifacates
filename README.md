@@ -10,11 +10,11 @@ Eğitim Konusu:
  
 Eğitim İçeriği:
 
- -> Yalın ve Yalın Üretim Nedir?
- -> 5S Nedir?
- -> KAI ZEN Nedir?
- -> POKA YOKE Nedir?
- -> PDCA Nedir?
+ -> Yalın ve Yalın Üretim Nedir?	
+ -> 5S Nedir?	
+ -> KAI ZEN Nedir?	
+ -> POKA YOKE Nedir?	
+ -> PDCA Nedir?	
  
 
 ![](https://i.hizliresim.com/nj9hi3y.jpg)
