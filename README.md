@@ -1,4 +1,4 @@
-# Certifacates
+# Sertifikalar ve Eğitimler
 
 ## Microsoft Excel Eğitim
 
