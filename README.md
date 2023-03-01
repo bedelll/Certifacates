@@ -1,7 +1,14 @@
 # Certifacates
 
-## Yalın Üretim
+## Microsoft Excel Eğitim
 
+![](https://i.hizliresim.com/a6x94k6.jpg)
+
+## Microsoft Excel VBA Eğitim
+
+![](https://i.hizliresim.com/scdc0ld.jpg)
+
+## Yalın Üretim
 
 Eğitim Konusu:
 
@@ -22,6 +29,10 @@ Eğitim İçeriği:
  -> PDCA Nedir?	 
 
 ![](https://i.hizliresim.com/nj9hi3y.jpg)
+
+## İstatiksel Veri Kontrol Eğitim
+
+![](https://i.hizliresim.com/e6d636n.jpg)
 
 # Android Studio
 ![](https://i.hizliresim.com/boxdp2x.jpg)
