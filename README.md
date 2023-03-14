@@ -75,5 +75,6 @@ Eğitim İçeriği:
 # Yabancı Dil Eğitimi
 ![](https://i.hizliresim.com/6meh5o1.jpg)
 
-## Teknofest 
+## TEKNOFEST
+2021 yılı Eğitim Teknolojileri Yarışması finalist takım sertifikasıdır.
 ![](https://i.hizliresim.com/pan418l.jpg)
