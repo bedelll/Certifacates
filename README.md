@@ -72,3 +72,5 @@ Eğitim İçeriği:
 # Android Studio
 ![](https://i.hizliresim.com/boxdp2x.jpg)
 
+# Yabancı Dil Eğitimi
+![](https://i.hizliresim.com/6meh5o1.jpg)
