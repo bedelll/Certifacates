@@ -74,3 +74,6 @@ Eğitim İçeriği:
 
 # Yabancı Dil Eğitimi
 ![](https://i.hizliresim.com/6meh5o1.jpg)
+
+## Teknofest 
+![](https://i.hizliresim.com/pan418l.jpg)
